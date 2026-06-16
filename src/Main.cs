@@ -23,6 +23,8 @@ class Program
         {
             dt = Raylib.GetFrameTime(); // delta time
 
+            // PLAYER MOVEMENT
+
             // drawing
             Raylib.BeginDrawing();
             Raylib.ClearBackground(Color.White);
